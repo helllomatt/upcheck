@@ -1,0 +1,1 @@
+export const SET_URLS = 'SET_URLS'
